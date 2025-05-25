@@ -10,7 +10,7 @@ def load_data():
     return df
 
 st.markdown("### ") 
-st.markdown("<span style='color: yellow; font-size: 30px;'>  Developed by: Ali Abid, ID: 380054</span>", unsafe_allow_html=True)
+st.markdown("<span style='color: blue; font-size: 30px;'>  Developed by: Ali Abid, ID: 380054</span>", unsafe_allow_html=True)
 st.markdown("""
     <a href="https://github.com/abidkk/AI-Hackathon-SMIT" target="_blank">
         <button style="background-color:#1d3740;color:white;padding:5px 8px;border:none;border-radius:5px;">
