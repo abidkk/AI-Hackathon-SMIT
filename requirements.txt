@@ -4,27 +4,9 @@ beautifulsoup4
 selenium
 lxml
 fake-useragent
-
-# Data Handling
 pandas
-
-# Backend Web Framework (choose one based on UI preference)
-flask
 streamlit
-
-# Visualization
 matplotlib
 plotly
-
-# Scheduling (for periodic scraping)
 schedule
-
-# For storing data
-sqlite3  # built-in, no need to install via pip
-# or if you prefer working with JSON/CSV, pandas will handle it
-
-# Deployment (optional, depending on hosting platform)
-gunicorn  # only for deploying Flask on platforms like Render
-
-# Webdriver manager (for Selenium setup)
 webdriver-manager
